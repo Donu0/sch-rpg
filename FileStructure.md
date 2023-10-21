@@ -13,12 +13,11 @@
         - /objects
         - /entities
     - /core
-      - /com.neoners
+      - /com.neoners.schrpg
         - /config
         - /entities
-        - /schrpg
-          - /game
-          - /scenes
+        - /game
+        - /scenes
     - /desktop
     - /gradle stuff
   - /external libraries
